@@ -9,14 +9,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bootstrap-sass": "^3.3.7",
     "gulp-git": "^1.7.1",
-    "gulp-uglifyjs": "^0.6.2"
+    "gulp-uglifyjs": "^0.6.2",
+    "run-sequence": "^2.2.1"
   },
   "devDependencies": {
     "bower": "^1.7.7",
     "del": "^2.2.0",
     "gulp": "^3.9.1",
-    "gulp-bower": "0.0.13",
     "gulp-concat": "^2.6.0",
     "gulp-jekyll": "0.0.0",
     "gulp-less": "^3.0.5"
