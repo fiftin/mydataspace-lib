@@ -1,0 +1,15 @@
+_site
+_site.w20
+.sass-cache
+.jekyll-metadata
+bower_components/
+node_modules/
+.idea/
+*.swp
+*.swo
+*.komodoproject
+.vs/
+.vscode/
+package-lock.json
+/nbproject/
+*~
