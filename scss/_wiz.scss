@@ -1,0 +1,23 @@
+@import "https://web20site.com/fonts/1.0.0/fonts.css";
+
+$font-size-md:  14px;
+$edit-bg:       #fafafa;
+$edit-border:   #ddd;
+$edit-padding:  10px;
+
+body {
+  font-family: Raleway, Arial, sans-serif;
+  font-size: $font-size-md;
+  margin: 15px;
+}
+
+input, textarea {
+  font-family: Raleway, Arial, sans-serif;
+  font-size: $font-size-md;
+}
+
+.input-text {
+  background: $edit-bg;
+  border: 1px solid $edit-border;
+  padding: $edit-padding * 0.75 $edit-padding;
+}
